@@ -20,4 +20,3 @@ str(industry_panel)
 str(task_labels)
 str(occupation_panel)
 
-jggvhgv
