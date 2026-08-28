@@ -19,3 +19,5 @@ task_labels <- read_parquet("task_country_labels_analysis.parquet")
 str(industry_panel)
 str(task_labels)
 str(occupation_panel)
+
+jggvhgv
